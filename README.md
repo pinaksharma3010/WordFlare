@@ -129,10 +129,3 @@ Example:
  🙌 Credits
 
 Developed by **Pinak Sharma**
-B.Tech CSE | Amity University Rajasthan
-
----
-
- 📣 Feedback
-
-Feel free to open issues or pull requests. Suggestions are always welcome!
